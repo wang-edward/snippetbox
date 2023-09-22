@@ -1,2 +1,2 @@
 # snippetbox
-Pastebin clone in golang from Let's Go! book
+Code sharing site in go from Let's Go! book by Alex Edwards 
